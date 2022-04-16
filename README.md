@@ -4,7 +4,10 @@ Digital business card using React and tailwind css
 
 ##Output
 
-![output](https://github.com/sam13007/Digital-business-card/blob/master/src/assets/Naksh.jpg)
+![output](https://raw.githubusercontent.com/sam13007/Digital-business-card/master/src/assets/Output1.png)
+
+![Desktop view](https://raw.githubusercontent.com/sam13007/Digital-business-card/master/src/assets/home.png)
+
 
 ## Available Scripts
 
